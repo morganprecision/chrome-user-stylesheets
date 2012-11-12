@@ -4,6 +4,13 @@ div.scroll-content.js-chirp-container {
 }
 
 /* Twitter */
+body.ms-windows .tweet {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 15px;
+}
+body.ms-windows #profile_popup .recent-tweets p {
+    font-size: 15px !important;
+}
 body.user-style-eugenemorgan .stream-item .tweet {
     background-color: #ddd;
 }
